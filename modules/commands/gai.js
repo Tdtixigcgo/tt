@@ -20,7 +20,7 @@ this.stream_url= function (url) {
 },
 this.onLoad = async function (o) {
         let status = false;
-        let urls = require('./../../gojo/datajson/vdgai.json');
+        let urls = require('./includes/datajson/vdgai.json');
     if (!global.jjjja) global.jjjja = setInterval(_ => {
             if (status == true || global.a.length > 50) return;
             status = true;
