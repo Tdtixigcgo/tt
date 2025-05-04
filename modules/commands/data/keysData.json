@@ -1,0 +1,347 @@
+[
+    {
+        "key": "Krystal_ce1a",
+        "used": false,
+        "duration": 30
+    },
+    {
+        "key": "Krystal_0037",
+        "used": false,
+        "duration": 30
+    },
+    {
+        "key": "Krystal_fc0c",
+        "used": false,
+        "duration": 50
+    },
+    {
+        "key": "Krystal_6ae3",
+        "used": false,
+        "duration": 100
+    },
+    {
+        "key": "Krystal_473b",
+        "used": true,
+        "duration": 100
+    },
+    {
+        "key": "Krystal_300c",
+        "used": true,
+        "duration": 100
+    },
+    {
+        "key": "Krystal_9629",
+        "used": true,
+        "duration": 3
+    },
+    {
+        "key": "Krystal_28fe",
+        "used": true,
+        "duration": 90
+    },
+    {
+        "key": "Krystal_c1bd",
+        "used": true,
+        "duration": 30
+    },
+    {
+        "key": "Krystal_7b08",
+        "used": true,
+        "duration": 100
+    },
+    {
+        "key": "Krystal_c79e",
+        "used": true,
+        "duration": 10
+    },
+    {
+        "key": "Krystal_d427",
+        "used": true,
+        "duration": 100
+    },
+    {
+        "key": "Krystal_2029",
+        "used": true,
+        "duration": 100
+    },
+    {
+        "key": "Krystal_85fc",
+        "used": true,
+        "duration": 200
+    },
+    {
+        "key": "Krystal_a9ae",
+        "used": false,
+        "duration": 200
+    },
+    {
+        "key": "Krystal_c23f",
+        "used": false,
+        "duration": 100
+    },
+    {
+        "key": "Krystal_9e7e",
+        "used": false,
+        "duration": 100
+    },
+    {
+        "key": "Krystal_366c",
+        "used": true,
+        "duration": 100
+    },
+    {
+        "key": "Krystal_a765",
+        "used": true,
+        "duration": 100
+    },
+    {
+        "key": "Krystal_c007",
+        "used": true,
+        "duration": 1
+    },
+    {
+        "key": "Krystal_5a7a",
+        "used": true,
+        "duration": 100
+    },
+    {
+        "key": "Krystal_bd7b",
+        "used": true,
+        "duration": 31
+    },
+    {
+        "key": "Krystal_e374",
+        "used": false,
+        "duration": 100
+    },
+    {
+        "key": "Krystal_98c8",
+        "used": true,
+        "duration": 100
+    },
+    {
+        "key": "Krystal_1d25",
+        "used": true,
+        "duration": 200
+    },
+    {
+        "key": "Krystal_3e54",
+        "used": true,
+        "duration": 200
+    },
+    {
+        "key": "Krystal_f209",
+        "used": true,
+        "duration": 100
+    },
+    {
+        "key": "Krystal_4d95",
+        "used": true,
+        "duration": 100
+    },
+    {
+        "key": "Krystal_d14f",
+        "used": true,
+        "duration": 30
+    },
+    {
+        "key": "Krystal_c3c6",
+        "used": true,
+        "duration": 100
+    },
+    {
+        "key": "Krystal_bb94",
+        "used": true,
+        "duration": 150
+    },
+    {
+        "key": "Krystal_3d6f",
+        "used": true,
+        "duration": 100
+    },
+    {
+        "key": "Krystal_0146",
+        "used": true,
+        "duration": 30
+    },
+    {
+        "key": "Krystal_f5fc",
+        "used": true,
+        "duration": 200
+    },
+    {
+        "key": "Krystal_4df8",
+        "used": true,
+        "duration": 30
+    },
+    {
+        "key": "Krystal_9bc4",
+        "used": true,
+        "duration": 91
+    },
+    {
+        "key": "Krystal_1ec6",
+        "used": true,
+        "duration": 100
+    },
+    {
+        "key": "Krystal_6218",
+        "used": true,
+        "duration": 200
+    },
+    {
+        "key": "Krystal_6fcb",
+        "used": true,
+        "duration": 200
+    },
+    {
+        "key": "Krystal_2ac9",
+        "used": true,
+        "duration": 200
+    },
+    {
+        "key": "Krystal_cd08",
+        "used": true,
+        "duration": 200
+    },
+    {
+        "key": "Krystal_3b92",
+        "used": true,
+        "duration": 183
+    },
+    {
+        "key": "Krystal_e931",
+        "used": true,
+        "duration": 150
+    },
+    {
+        "key": "Krystal_6fcf",
+        "used": true,
+        "duration": 30
+    },
+    {
+        "key": "Krystal_58a4",
+        "used": true,
+        "duration": 150
+    },
+    {
+        "key": "Krystal_b3bc",
+        "used": true,
+        "duration": 150
+    },
+    {
+        "key": "Krystal_0b92",
+        "used": false,
+        "duration": 82
+    },
+    {
+        "key": "Krystal_4029",
+        "used": true,
+        "duration": 85
+    },
+    {
+        "key": "Krystal_c9a2",
+        "used": true,
+        "duration": 150
+    },
+    {
+        "key": "Krystal_3844",
+        "used": true,
+        "duration": 180
+    },
+    {
+        "key": "Krystal_c660",
+        "used": true,
+        "duration": 150
+    },
+    {
+        "key": "Krystal_fabb",
+        "used": true,
+        "duration": 150
+    },
+    {
+        "key": "Krystal_ae46",
+        "used": false,
+        "duration": 150
+    },
+    {
+        "key": "Krystal_8a30",
+        "used": true,
+        "duration": 150
+    },
+    {
+        "key": "Krystal_5440",
+        "used": true,
+        "duration": 40
+    },
+    {
+        "key": "Krystal_91d4",
+        "used": true,
+        "duration": 100
+    },
+    {
+        "key": "Krystal_a7fa",
+        "used": true,
+        "duration": 100
+    },
+    {
+        "key": "Krystal_f12f",
+        "used": true,
+        "duration": 200
+    },
+    {
+        "key": "Krystal_1a68",
+        "used": false,
+        "duration": 40
+    },
+    {
+        "key": "Krystal_5c5b",
+        "used": true,
+        "duration": 40
+    },
+    {
+        "key": "Krystal_2093",
+        "used": true,
+        "duration": 40
+    },
+    {
+        "key": "Krystal_38bc",
+        "used": true,
+        "duration": 40
+    },
+    {
+        "key": "Krystal_7e17",
+        "used": true,
+        "duration": 150
+    },
+    {
+        "key": "Krystal_dedd",
+        "used": true,
+        "duration": 30
+    },
+    {
+        "key": "Krystal_1572",
+        "used": true,
+        "duration": 30
+    },
+    {
+        "key": "Krystal_efc1",
+        "used": true,
+        "duration": 30
+    },
+    {
+        "key": "Krystal_8110",
+        "used": true,
+        "duration": 30
+    },
+    {
+        "key": "Krystal_7a87",
+        "used": true,
+        "duration": 30
+    },
+    {
+        "key": "Krystal_2c10",
+        "used": true,
+        "duration": 30
+    }
+]
