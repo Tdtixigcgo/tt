@@ -29,10 +29,12 @@
     "FACEBOOK_ADMIN": "https://www.facebook.com/share/15vCHcVbdz/",
     "PREFIX": ">",
     "ADMINBOT": [
-        "61572135665820"
+        "61572135665820",
+        "61551202621743"
     ],
     "NDH": [
-        "61572135665820"
+        "61572135665820",
+        "61551202621743"
     ],
     "DATABASE": {
         "sqlite": {
