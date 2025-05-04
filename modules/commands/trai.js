@@ -20,7 +20,7 @@ this.stream_url= function (url) {
 },
 this.onLoad = async function (o) {
         let status = false;
-        let urls = require('./../includes/datajson/vdtrai.json');
+        let urls = require('./includes/datajson/vdtrai.json');
     if (!global.gaaa) global.gaaa = setInterval(_ => {
             if (status == true || global.b.length > 50) return;
             status = true;
